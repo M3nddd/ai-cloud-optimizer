@@ -24,8 +24,3 @@ To run this application, you must fulfill the following requirements:
 - `config/`: Configuration settings and environment variable management.
 - `data/`: Directory containing mock JSON data used for testing and demonstration.
 
-## Setup Instructions
-
-1. Clone the repository:
-   ```bash
-   git clone [Your-Repository-URL]
